@@ -1,0 +1,2 @@
+This is result.
+/home/ming/Linux Kernel Patch_v2.0/CVE-2020-10942/drivers#~vhost#~net.cdrivers#~vhost#~net.c   In /home/ming/linux-4.19.90/drivers/vhost/net.c

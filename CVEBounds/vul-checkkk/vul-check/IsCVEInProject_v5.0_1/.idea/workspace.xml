@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7f7568e9-506f-465b-aa5f-47d78d7d8dd6" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/IsCVEInProject$IsCVEInWholeProject.coverage" NAME="IsCVEInWholeProject Coverage Results" MODIFIED="1527776844453" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0$version_cvelist_v1_0.coverage" NAME="version_cvelist v1.0 Coverage Results" MODIFIED="1541077699677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0$IsCVEInProject.coverage" NAME="IsCVEInProject Coverage Results" MODIFIED="1528951488499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject$Repository.coverage" NAME="Repository Coverage Results" MODIFIED="1528546543906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0$version_cvelist__1_.coverage" NAME="version_cvelist (1) Coverage Results" MODIFIED="1541063803388" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="G:/漏洞相关/IsCVEInProject_v5.0" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject$IsCVEInProject.coverage" NAME="IsCVEInProject Coverage Results" MODIFIED="1528702967446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v2_0$IsCVEInProject.coverage" NAME="IsCVEInProject Coverage Results" MODIFIED="1528729785420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0___$IsCVEInProject.coverage" NAME="IsCVEInProject Coverage Results" MODIFIED="1596255037319" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0$version_cvelist.coverage" NAME="version_cvelist Coverage Results" MODIFIED="1541076140146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0$version_cvelist_v2_0.coverage" NAME="version_cvelist v2.0 Coverage Results" MODIFIED="1541079330454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0$GetModuleDiffIn.coverage" NAME="GetModuleDiffIn Coverage Results" MODIFIED="1528945707965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject$Seperate_cve.coverage" NAME="Seperate_cve Coverage Results" MODIFIED="1528286296995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject$GetModuleDiffIn.coverage" NAME="GetModuleDiffIn Coverage Results" MODIFIED="1528547772595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0___$LinuxKernelPatchCrawler_1_.coverage" NAME="LinuxKernelPatchCrawler(1) Coverage Results" MODIFIED="1558422084442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0___$crawler.coverage" NAME="crawler Coverage Results" MODIFIED="1588903141841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../../学习/python学习" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fXZLydfOQRl6jKoQQr4teIoNOy" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.testExcel">
+    <configuration name="GetModuleDiffIn" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IsCVEInProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/GetModuleDiffIn.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="IsCVEInProject" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IsCVEInProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/IsCVEInProject.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generateResult" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IsCVEInProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generateResult.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="readExcelDate" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IsCVEInProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/readExcelDate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="testExcel" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="IsCVEInProject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testExcel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.IsCVEInProject" />
+      <item itemvalue="Python.GetModuleDiffIn" />
+      <item itemvalue="Python.generateResult" />
+      <item itemvalue="Python.readExcelDate" />
+      <item itemvalue="Python.testExcel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.testExcel" />
+        <item itemvalue="Python.generateResult" />
+        <item itemvalue="Python.readExcelDate" />
+        <item itemvalue="Python.IsCVEInProject" />
+        <item itemvalue="Python.GetModuleDiffIn" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7f7568e9-506f-465b-aa5f-47d78d7d8dd6" name="Default" comment="" />
+      <created>1527516157224</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1527516157224</updated>
+      <workItem from="1550645501546" duration="3772000" />
+      <workItem from="1550716014424" duration="3066000" />
+      <workItem from="1550802563539" duration="3109000" />
+      <workItem from="1550818889516" duration="7022000" />
+      <workItem from="1551424986528" duration="2209000" />
+      <workItem from="1555494890337" duration="597000" />
+      <workItem from="1555508778729" duration="634000" />
+      <workItem from="1555647187509" duration="605000" />
+      <workItem from="1558081226354" duration="1434000" />
+      <workItem from="1558161805253" duration="645000" />
+      <workItem from="1558337646637" duration="7053000" />
+      <workItem from="1558404683785" duration="1801000" />
+      <workItem from="1558493194795" duration="1575000" />
+      <workItem from="1564019453629" duration="1730000" />
+      <workItem from="1564892793143" duration="2564000" />
+      <workItem from="1565010913458" duration="2138000" />
+      <workItem from="1565171361776" duration="1431000" />
+      <workItem from="1565249633804" duration="5136000" />
+      <workItem from="1565335526607" duration="1342000" />
+      <workItem from="1578897665120" duration="1878000" />
+      <workItem from="1580978521449" duration="4377000" />
+      <workItem from="1582279382464" duration="2000" />
+      <workItem from="1582961975263" duration="11471000" />
+      <workItem from="1586867289347" duration="20289000" />
+      <workItem from="1587112254194" duration="11163000" />
+      <workItem from="1587356008078" duration="7712000" />
+      <workItem from="1587544501066" duration="27460000" />
+      <workItem from="1588215821358" duration="44784000" />
+      <workItem from="1588901976875" duration="2387000" />
+      <workItem from="1589605899339" duration="9182000" />
+      <workItem from="1591629010860" duration="3345000" />
+      <workItem from="1593746665685" duration="706000" />
+      <workItem from="1594266712267" duration="4787000" />
+      <workItem from="1596254808155" duration="835000" />
+      <workItem from="1596366347647" duration="11000" />
+      <workItem from="1596366376314" duration="56000" />
+      <workItem from="1596505629202" duration="304000" />
+      <workItem from="1596707631087" duration="18301000" />
+      <workItem from="1596764527066" duration="122000" />
+      <workItem from="1596765012806" duration="6170000" />
+      <workItem from="1596787140924" duration="12512000" />
+      <workItem from="1596861172031" duration="2443000" />
+      <workItem from="1596863686170" duration="922000" />
+      <workItem from="1598527698296" duration="5516000" />
+      <workItem from="1598581060088" duration="18000" />
+      <workItem from="1598947782284" duration="5089000" />
+      <workItem from="1599026834313" duration="1523000" />
+      <workItem from="1600259215772" duration="2321000" />
+      <workItem from="1600304040875" duration="145000" />
+      <workItem from="1600325480448" duration="1586000" />
+      <workItem from="1600348544745" duration="615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint suspend="NONE" type="python-exception">
+          <properties exception="BaseException" />
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0_2$readExcelDate.coverage" NAME="readExcelDate Coverage Results" MODIFIED="1596791947049" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0_2$testExcel.coverage" NAME="testExcel Coverage Results" MODIFIED="1598952290250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0_2$IsCVEInProject.coverage" NAME="IsCVEInProject Coverage Results" MODIFIED="1596729419767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0_2$GetModuleDiffIn.coverage" NAME="GetModuleDiffIn Coverage Results" MODIFIED="1596714464431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/IsCVEInProject_v5_0_2$generateResult.coverage" NAME="generateResult Coverage Results" MODIFIED="1596866522380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>

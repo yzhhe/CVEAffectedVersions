@@ -1,0 +1,2 @@
+These cve may be exist.
+/home/ming/Linux Kernel Patch_v2.0/CVE-2020-11565/mm#~mempolicy.cmm#~mempolicy.c   Probably In /home/ming/linux-4.19.90/mm/mempolicy.c

@@ -1,0 +1,6 @@
+These cve may be exist.
+/home/ming/Linux Kernel Patch_v2.0/CVE-2020-11565/mm#~mempolicy.cmm#~mempolicy.c   Probably In /home/ming/linux-4.19.90/mm/mempolicy.c
+/home/ming/Linux Kernel Patch_v2.0/CVE-2020-11668/drivers#~media#~usb#~gspca#~xirlink_cit.cdrivers#~media#~usb#~gspca#~xirlink_cit.c   Probably In /home/ming/linux-4.19.90/drivers/media/usb/gspca/xirlink_cit.c
+/home/ming/Linux Kernel Patch_v2.0/CVE-2020-11884/arch#~s390#~mm#~pgalloc.carch#~s390#~mm#~pgalloc.c   Probably In /home/ming/linux-4.19.90/arch/s390/mm/pgalloc.c
+/home/ming/Linux Kernel Patch_v2.0/CVE-2020-12464/drivers#~usb#~core#~message.cdrivers#~usb#~core#~message.c   Probably In /home/ming/linux-4.19.90/drivers/usb/core/message.c
+/home/ming/Linux Kernel Patch_v2.0/CVE-2020-12465/drivers#~net#~wireless#~mediatek#~mt76#~dma.cdrivers#~net#~wireless#~mediatek#~mt76#~dma.c   In /home/ming/linux-4.19.90/drivers/net/wireless/mediatek/mt76/dma.c
